@@ -8,4 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uralauah&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/Uralauah)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralauah&layout=compact&theme=material-palenight)](https://github.com/Uralauah)
 
+#### :pencil2: Study log
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?color=dark&name=tmdgus5115&tag=백준)](https://velog.io/@tmdgus5115)
 </div>
