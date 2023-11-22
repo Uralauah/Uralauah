@@ -10,5 +10,5 @@
 
 #### :pencil2: Study log
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?color=dark&name=tmdgus5115&tag=백준)](https://velog.io/@tmdgus5115)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdgus5115&tag=백준)](https://velog.io/@tmdgus5115)
 </div>
