@@ -1,5 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,14,30&height=300&section=header&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=60)
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,14,30&height=300&section=header&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=60)
 
 -------
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUralauah&count_bg=%23A588F9&title_bg=%23555555&icon=&icon_color=%23818181&title=GITHUB&edge_flat=false)](https://github.com/Uralauah)
